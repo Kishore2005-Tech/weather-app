@@ -2,7 +2,7 @@
 
 A lightweight Weather App built with **JavaScript**, **HTML**, and **CSS**, utilizing the **OpenWeather API** to fetch real-time weather data.
 
-Users can search for any city and view up-to-date weather information in a sleek, responsive design.
+Users can search for any city and view up-to-date weather information in a responsive design.
 
 ## 🚀 Demo 
 
