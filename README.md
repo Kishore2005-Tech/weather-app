@@ -23,7 +23,9 @@ Check out the live version of the app here → [**Weather App**]()
 
 ✅ Responsive and user-friendly interface
 
-✅ Simple search functionality to find any city’s weather
+✅ Simple search functionality to find any city weather
+
+
 
 
 ## 🧩 Tech Stack
@@ -44,7 +46,8 @@ Contributions are welcome! You can:
 
  - Improve UI design
 
- - Enhance API handling or code readability
+ - Enhance API handling or code readability
+
    
 
 
