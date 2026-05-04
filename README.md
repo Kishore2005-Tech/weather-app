@@ -53,6 +53,6 @@ Contributions are welcome! You can:
 
 ## 📬 Contact  
 
-  For any queries or collaborations, connect with me on [**LinkedIn**](https://www.linkedin.com/in/kishore-p-a42548330) — always happy to chat! 🤝  
+  For any queries, connect with me on [**LinkedIn**](https://www.linkedin.com/in/kishore-p-a42548330) — always happy to chat! 🤝  
 
 ---
