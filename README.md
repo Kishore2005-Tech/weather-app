@@ -23,8 +23,7 @@ Check out the live version of the app here → [**Weather App**]()
 
 ✅ Responsive and user-friendly interface
 
-✅ Simple search functionality to find any city weather
-
+✅ Simple search functionality
 
 
 
