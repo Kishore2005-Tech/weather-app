@@ -33,7 +33,7 @@ Check out the live version of the app here → [**Weather App**]
 
 **CSS3** – For styling and responsiveness
 
-**JavaScript (ES6)** – For logic and dynamic updates
+**JavaScript (ES6) – For logic and dynamic updates
 
 **OpenWeather API** – For real-time weather data
 
