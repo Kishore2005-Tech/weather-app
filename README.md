@@ -35,7 +35,7 @@ Check out the live version of the app here → [**Weather App**]
 
 **JavaScript (ES6) – For logic and dynamic updates
 
-**OpenWeather API** – For real-time weather data
+**OpenWeather API – For real-time weather data
 
 ## 🤝 Contributing
 
