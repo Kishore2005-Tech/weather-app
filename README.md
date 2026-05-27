@@ -29,13 +29,13 @@ Check out the live version of the app here → [**Weather App**]
 
 ## 🧩 Tech Stack
 
-**HTML5** – Structure of the app
+HTML5 – Structure of the app
 
-**CSS3** – For styling and responsiveness
+CSS3 – For styling and responsiveness
 
 JavaScript (ES6) – For logic and dynamic updates
 
-**OpenWeather API** – For real-time weather data
+OpenWeather API – For real-time weather data
 
 ## 🤝 Contributing
 
