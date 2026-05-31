@@ -1,6 +1,7 @@
 # 🌦️ Weather App
 
-A lightweight Weather App built with **JavaScript**, **HTML**, and **CSS**, utilizing the **OpenWeather API** to fetch real-time weather data.
+A lightweight Weather App built with **JavaScript**, **HTML**, and **CSS**, utilizing the **OpenWeather API** to fetch real-time weather data.
+
 Users can search for any city and view up-to-date weather information in a responsive design.
 
 ## 🚀 Demo 
@@ -28,13 +29,13 @@ Check out the live version of the app here → [**Weather App**]
 
 ## 🧩 Tech Stack
 
-**HTML5** – Structure of the app
+*HTML5* – Structure of the app
 
-**CSS3** – For styling and responsiveness
+*CSS3* – For styling and responsiveness
 
-**JavaScript (ES6)** – For logic and dynamic updates
+*JavaScript (ES6)* – For logic and dynamic updates
 
-**OpenWeather API** – For real-time weather data
+*OpenWeather API*– For real-time weather data
 
 ## 🤝 Contributing
 
