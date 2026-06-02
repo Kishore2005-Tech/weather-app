@@ -29,7 +29,7 @@ Check out the live version of the app here → [**Weather App**]
 
 ## 🧩 Tech Stack
 
-*HTML5** – Structure of the app
+**HTML5** – Structure of the app
 
 **CSS3** – For styling and responsiveness
 
