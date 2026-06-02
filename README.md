@@ -31,7 +31,7 @@ Check out the live version of the app here → [**Weather App**]
 
 *HTML5** – Structure of the app
 
-*CSS3** – For styling and responsiveness
+**CSS3** – For styling and responsiveness
 
 **JavaScript (ES6)** – For logic and dynamic updates
 
