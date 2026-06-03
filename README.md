@@ -19,11 +19,11 @@ Check out the live version of the app here → [**Weather App**]
 
 ✅ **Fetches** real-time weather data using the OpenWeather API
 
-✅ Displays temperature, humidity, and weather conditions dynamically
+✅ **Displays** temperature, humidity, and weather conditions dynamically
 
-✅ Responsive and user-friendly interface
+✅ **Responsive** and user-friendly interface
 
-✅ Simple search functionality
+✅ **Simple** search functionality
 
 
 
