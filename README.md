@@ -17,7 +17,7 @@ Check out the live version of the app here → [**Weather App**]
 
 ## 🧠 Features
 
-✅ Fetches real-time weather data using the OpenWeather API
+✅ **Fetches** real-time weather data using the OpenWeather API
 
 ✅ Displays temperature, humidity, and weather conditions dynamically
 
