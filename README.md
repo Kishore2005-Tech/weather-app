@@ -11,7 +11,7 @@ Users can search for any city and view up-to-date weather information in a respo
 ---
 
 ## 🌐 Live Demo  
-Check out the live version of the app here → *Weather App*
+Check out the live version of the app here → [**Weather App**]
 
 
 
