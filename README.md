@@ -41,11 +41,11 @@ Check out the live version of the app here → [**Weather App**]
 
 Contributions are welcome! You can:
 
- - **Add new features**
+ - *Add new features*
 
- - **Improve UI design**
+ - *Improve UI design*
 
- - **Enhance API handling or code readability**
+ - *Enhance API handling or code readability*
 
    
 
