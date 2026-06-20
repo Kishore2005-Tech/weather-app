@@ -39,13 +39,13 @@ Check out the live version of the app here → [**Weather App**]
 
 ## 🤝 Contributing
 
-Contributions are welcome! You can:
+**Contributions are welcome! You can:
 
  - Add new features
 
  - Improve UI design
 
- - Enhance API handling or code readability
+ - Enhance API handling or code readability**
 
    
 
