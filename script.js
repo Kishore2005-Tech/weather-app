@@ -15,7 +15,7 @@ const currentDateTxt = document.querySelector('.current-date-txt')
 
 const forecastItemsContainer = document.querySelector('.forecast-items-container')
 
-const apiKey = 'c4e3e186af6c81eeb08387f23176a635' // Paste here your API key
+const apiKey = '' // Paste here your API key
 
 searchBtn.addEventListener('click', () => {
     if (cityInput.value.trim() != '') {
